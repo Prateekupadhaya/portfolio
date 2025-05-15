@@ -1,6 +1,3 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 // import "themify-icons/themify-icons.css";
@@ -11,8 +8,6 @@ import Header from './components/Header'
 import About from './components/About'
 import Services from './components/Services'
 import Portfolio from './components/Portfolio'
-import Pricing from './components/Pricing'
-import Testimonials from './components/Testomonial'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 
